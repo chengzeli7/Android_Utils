@@ -4,6 +4,8 @@
 ### 项目概览
 本项目包含了以下常用工具类：
 
+[base基类](https://github.com/chengzeli7/Android_Utils/tree/main/base): BaseActivity、BaseFragment、BaseDialog、BaseView等
+
 [ActivityUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ActivityUtils.kt): Toast 消息管理
 
 [NetworkUtils](https://github.com/chengzeli7/Android_Utils/blob/main/NetworkUtils.kt): 网络状态判断
@@ -60,6 +62,7 @@
 对于需要初始化的工具类（如 Toaster, SPUtils, CrashHandlerUtils），在你的 Application 的 onCreate() 方法中进行初始化。
 
 在你的代码中直接调用工具类的方法。
+
 [使用方式](https://github.com/chengzeli7/Android_Utils/blob/main/How%20to%20use%20it.md)
 
 ### 贡献
