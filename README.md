@@ -36,8 +36,6 @@
 
 [VibrateUtils](https://github.com/chengzeli7/Android_Utils/blob/main/VibrateUtils.kt): 设备震动控制
 
-[SnackbarUtils](https://github.com/chengzeli7/Android_Utils/blob/main/SnackbarUtils.kt): Snackbar 显示
-
 [LogUtils](https://github.com/chengzeli7/Android_Utils/blob/main/LogUtils.kt): 增强型日志记录
 
 [IntentUtils](https://github.com/chengzeli7/Android_Utils/blob/main/IntentUtils.kt): Intent 常用操作
