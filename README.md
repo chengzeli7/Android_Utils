@@ -4,59 +4,57 @@
 ### 项目概览
 本项目包含了以下常用工具类：
 
-[ActivityUtils]([https://pages.github.com/](https://github.com/chengzeli7/Android_Utils/blob/main/ActivityUtils.kt)): Toast 消息管理
+[ActivityUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ActivityUtils.kt): Toast 消息管理
 
-NetworkUtils: 网络状态判断
+[NetworkUtils](https://github.com/chengzeli7/Android_Utils/blob/main/NetworkUtils.kt): 网络状态判断
 
-ScreenUtils: 屏幕相关信息及单位转换
+[ScreenUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ScreenUtils.kt): 屏幕相关信息及单位转换
 
-FileUtils: 文件操作
+[FileUtils](https://github.com/chengzeli7/Android_Utils/blob/main/FileUtils.kt): 文件操作
 
-SPUtils: SharedPreferences 简化操作
+[SPUtils](https://github.com/chengzeli7/Android_Utils/blob/main/SPUtils.kt): SharedPreferences 简化操作
 
-ActivityUtils: Activity 管理及跳转
+[ActivityUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ActivityUtils.kt): Activity 管理及跳转
 
-KeyboardUtils: 软键盘控制
+[KeyboardUtils](https://github.com/chengzeli7/Android_Utils/blob/main/KeyboardUtils.kt): 软键盘控制
 
-TimeUtils: 时间和日期处理
+[TimeUtils](https://github.com/chengzeli7/Android_Utils/blob/main/TimeUtils.kt): 时间和日期处理
 
-EncryptUtils: 加密解密
+[EncryptUtils](https://github.com/chengzeli7/Android_Utils/blob/main/EncryptUtils.kt): 加密解密
 
-RegexUtils: 正则表达式匹配
+[RegexUtils](https://github.com/chengzeli7/Android_Utils/blob/main/RegexUtils.kt): 正则表达式匹配
 
-DeviceUtils: 设备信息获取
+[DeviceUtils](https://github.com/chengzeli7/Android_Utils/blob/main/DeviceUtils.kt): 设备信息获取
 
-ResourceUtils: 资源获取
+[ResourceUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ResourceUtils.kt): 资源获取
 
-PermissionUtils: 运行时权限处理
+[PermissionUtils](https://github.com/chengzeli7/Android_Utils/blob/main/PermissionUtils.kt): 运行时权限处理
 
-AppUtils: 应用信息及操作
+[AppUtils](https://github.com/chengzeli7/Android_Utils/blob/main/AppUtils.kt): 应用信息及操作
 
-ClipboardUtils: 剪贴板操作
+[ClipboardUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ClipboardUtils.kt): 剪贴板操作
 
-VibrateUtils: 设备震动控制
+[VibrateUtils](https://github.com/chengzeli7/Android_Utils/blob/main/VibrateUtils.kt): 设备震动控制
 
-SnackbarUtils: Snackbar 显示
+[SnackbarUtils](https://github.com/chengzeli7/Android_Utils/blob/main/SnackbarUtils.kt): Snackbar 显示
 
-LogUtils: 增强型日志记录
+[LogUtils](https://github.com/chengzeli7/Android_Utils/blob/main/LogUtils.kt): 增强型日志记录
 
-IntentUtils: Intent 常用操作
+[IntentUtils](https://github.com/chengzeli7/Android_Utils/blob/main/IntentUtils.kt): Intent 常用操作
 
-ViewUtils: View 相关操作
+[ViewUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ViewUtils.kt): View 相关操作
 
-AnimationUtils: 常用动画效果
+[AnimationUtils](https://github.com/chengzeli7/Android_Utils/blob/main/AnimationUtils.kt): 常用动画效果
 
-ServiceUtils: Service 启动与停止
+[ServiceUtils](https://github.com/chengzeli7/Android_Utils/blob/main/ServiceUtils.kt): Service 启动与停止
 
-BroadcastReceiverUtils: 广播接收器注册与发送
+[BroadcastReceiverUtils](https://github.com/chengzeli7/Android_Utils/blob/main/BroadcastReceiverUtils.kt): 广播接收器注册与发送
 
-AudioUtils: 音频播放与录制
+[AudioUtils](https://github.com/chengzeli7/Android_Utils/blob/main/AudioUtils.kt): 音频播放与录制
 
-LocationUtils: 位置信息获取
+[CrashHandlerUtils](https://github.com/chengzeli7/Android_Utils/blob/main/CrashHandlerUtils.kt): 应用崩溃捕获与处理
 
-CrashHandlerUtils: 应用崩溃捕获与处理
-
-###如何使用
+### 如何使用
 将所需的工具类文件复制到你的 Android 项目中。
 
 根据每个工具类的说明，在 AndroidManifest.xml 中声明必要的权限。
@@ -65,8 +63,5 @@ CrashHandlerUtils: 应用崩溃捕获与处理
 
 在你的代码中直接调用工具类的方法。
 
-###贡献
+### 贡献
 欢迎贡献代码，如果你有任何好的想法或实现了新的工具类，请提交 Pull Request。
-
-###许可证
-本项目使用 MIT 许可证 开源。
