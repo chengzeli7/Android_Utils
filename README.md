@@ -1,10 +1,10 @@
-Android Kotlin 常用工具类库
-这是一个收集和实现 Android 开发中常用工具类的 Kotlin 开源项目。旨在提供一系列便捷、高效的工具类，帮助开发者提高开发效率，减少重复代码。
+# Android Kotlin 常用工具类库
+## 这是一个收集和实现 Android 开发中常用工具类的 Kotlin 开源项目。旨在提供一系列便捷、高效的工具类，帮助开发者提高开发效率，减少重复代码。
 
-项目概览
+### 项目概览
 本项目包含了以下常用工具类：
 
-Toaster: Toast 消息管理
+[ActivityUtils]([https://pages.github.com/](https://github.com/chengzeli7/Android_Utils/blob/main/ActivityUtils.kt)): Toast 消息管理
 
 NetworkUtils: 网络状态判断
 
@@ -56,7 +56,7 @@ LocationUtils: 位置信息获取
 
 CrashHandlerUtils: 应用崩溃捕获与处理
 
-如何使用
+###如何使用
 将所需的工具类文件复制到你的 Android 项目中。
 
 根据每个工具类的说明，在 AndroidManifest.xml 中声明必要的权限。
@@ -65,8 +65,8 @@ CrashHandlerUtils: 应用崩溃捕获与处理
 
 在你的代码中直接调用工具类的方法。
 
-贡献
+###贡献
 欢迎贡献代码，如果你有任何好的想法或实现了新的工具类，请提交 Pull Request。
 
-许可证
+###许可证
 本项目使用 MIT 许可证 开源。
